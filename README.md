@@ -1,5 +1,4 @@
-
-#🚀 SALMONTT APP - Sistema de Gestión de Centros de Producción
+<h1>🚀SALMONTT APP - Sistema de Gestión de Centros de Producción</h1>
 
 📋 DESCRIPCIÓN
 Un sistema básico de Java que lee datos de centros salmoneros desde un archivo .txt y permite realizar operaciones simples de filtrado y búsqueda. No es un sistema profesional - es un ejercicio académico que cumple con los requisitos mínimos de la rúbrica.
