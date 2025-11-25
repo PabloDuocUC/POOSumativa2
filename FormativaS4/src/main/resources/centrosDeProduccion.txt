@@ -1,0 +1,5 @@
+Isla Huar;Calbuco;1200
+Isla Huevo;Chiniwi;2200
+Isla Tortuga;Kolgia;3200
+Isla De Pascua;Walkstrok;4200
+Isla TikiTiki;Moneintong;5200
