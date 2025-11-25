@@ -3,6 +3,11 @@
 📋 DESCRIPCIÓN
 Un sistema básico de Java que lee datos de centros salmoneros desde un archivo .txt y permite realizar operaciones simples de filtrado y búsqueda. No es un sistema profesional - es un ejercicio académico que cumple con los requisitos mínimos de la rúbrica.
 
+👤 Autor del proyecto
+Nombre completo: Pablo Nicolas Alonso Gallardo Gallardo
+Carrera: Analista Programador
+Sede: Campus Online
+
 ⚙️ INSTALACIÓN Y EJECUCIÓN
 PRERREQUISITOS
 Java 8 o superior
@@ -74,3 +79,4 @@ Implementación de POO básica
 
 Filtrado y búsqueda en colecciones
 
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
